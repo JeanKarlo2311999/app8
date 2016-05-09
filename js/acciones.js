@@ -12,7 +12,7 @@ $('#derecha').on("swiperight",function(){
 		switch(opt)
 		{
 			case 1:
-			navigator.notification.beeb(2);
+			navigator.notification.beeb(1);
 			break;
 			
 			case 2:
